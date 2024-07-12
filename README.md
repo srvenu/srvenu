@@ -1,20 +1,17 @@
-<div align="center">
-  <img height="250" src="https://wallpapercave.com/wp/wp2763963.gif"  />
-</div>
-
 ###
-
 <div align="center">
+  <h1 align='left'>Social Media  --->
   <a href="https://www.linkedin.com/in/venu-s-raj" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="48" height="34" alt="linkedin logo"  />
-  </a>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="48" height="40" alt="linkedin logo"  />
+  </a> -- Linkedin
   <a href="https://www.youtube.com/@venu_s_raj" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="48" height="34" alt="youtube logo"  />
-  </a>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="48" height="40" alt="youtube logo"  />
+  </a> -- YouTube
   <a href="https://www.instagram.com/venu_s_raj/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="48" height="34" alt="instagram logo"  />
-  </a>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="48" height="40" alt="instagram logo"  /> </a> -- Instagram
+    </h1>
 </div>
+
 
 ###
 
@@ -25,9 +22,7 @@
 <h1 align="left">Hey there  !</h1>
 
 ###
-
 <br clear="both">
-
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
