@@ -1,7 +1,7 @@
 ###
-
+<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <div align="center">
-  <h1 align='left'>Social Media :
+  <h1 align='left'>Connect With Me :
   <a href="https://www.linkedin.com/in/venu-s-raj" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="48" height="40" alt="linkedin logo"  />
   </a>-Linkedin
@@ -20,7 +20,7 @@
 
 ###
 
-<h1 align="left">Hey there  !</h1>
+<h1 align="left">Hey there! I'm Venu S Raj</h1>
 
 ###
 
