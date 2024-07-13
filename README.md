@@ -1,6 +1,17 @@
 ###
 <div align="center">
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+  
+###
+
+<img align="right" src="https://profile-counter.glitch.me/srvenu/count.svg?"  />
+
+###
+
+<h1 align="left">Hey there! I'm Venu S Raj</h1>
+
+###
+
   <h1 align='left'>Connect With Me :
   <a href="https://www.linkedin.com/in/venu-s-raj" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="48" height="40" alt="linkedin logo"  />
@@ -13,16 +24,6 @@
     </h1>
 </div>
 
-
-###
-
-<img align="right" src="https://profile-counter.glitch.me/srvenu/count.svg?"  />
-
-###
-
-<h1 align="left">Hey there! I'm Venu S Raj</h1>
-
-###
 
 <br clear="both">
 <h3 align="left">👩‍💻  About Me</h3>
