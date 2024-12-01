@@ -12,15 +12,15 @@
 
 ###
 
-  <h1 align='left'>Connect With Me :
+  <h1 align='left'>Connect With Me :<br/>
   <a href="https://www.linkedin.com/in/venu-s-raj" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="48" height="40" alt="linkedin logo"  />
-  </a>-Linkedin
+  </a>Linkedin<br/>
   <a href="https://www.youtube.com/@venu_s_raj" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="48" height="40" alt="youtube logo"  />
-  </a>-YouTube
+  </a>YouTube<br/>
   <a href="https://www.instagram.com/venu_s_raj/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="48" height="40" alt="instagram logo"  /> </a>-Instagram
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="48" height="40" alt="instagram logo"  /> </a>Instagram
     </h1>
 </div>
 
